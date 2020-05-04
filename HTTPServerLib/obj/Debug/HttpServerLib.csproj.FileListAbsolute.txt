@@ -1,0 +1,6 @@
+C:\Users\yzqlwt\Dropbox\project\HttpServer-master\HttpServer-master\HTTPServer\HTTPServerLib\bin\Debug\HttpServerLib.dll
+C:\Users\yzqlwt\Dropbox\project\HttpServer-master\HttpServer-master\HTTPServer\HTTPServerLib\bin\Debug\HttpServerLib.pdb
+C:\Users\yzqlwt\Dropbox\project\HttpServer-master\HttpServer-master\HTTPServer\HTTPServerLib\obj\Debug\HttpServerLib.csprojAssemblyReference.cache
+C:\Users\yzqlwt\Dropbox\project\HttpServer-master\HttpServer-master\HTTPServer\HTTPServerLib\obj\Debug\HttpServerLib.csproj.CoreCompileInputs.cache
+C:\Users\yzqlwt\Dropbox\project\HttpServer-master\HttpServer-master\HTTPServer\HTTPServerLib\obj\Debug\HttpServerLib.dll
+C:\Users\yzqlwt\Dropbox\project\HttpServer-master\HttpServer-master\HTTPServer\HTTPServerLib\obj\Debug\HttpServerLib.pdb

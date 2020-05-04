@@ -1,0 +1,6 @@
+C:\Users\yzqlwt\Documents\WorkSpace\UnityProjects\UnityClient\Assets\PESocket.dll
+C:\Users\yzqlwt\Documents\WorkSpace\UnityProjects\UnityClient\Assets\PESocket.pdb
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\PESocket\obj\Debug\PESocket.csprojAssemblyReference.cache
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\PESocket\obj\Debug\PESocket.csproj.CoreCompileInputs.cache
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\PESocket\obj\Debug\PESocket.dll
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\PESocket\obj\Debug\PESocket.pdb

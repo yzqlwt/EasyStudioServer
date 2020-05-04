@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yzqlwt\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\yzqlwt\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_EasyStudioService.-670317524.00" t="ExcludeRecursive" />
+    <e p="C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\EasyStudioService" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EasyStudioService.csproj" t="IncludeRecursive" />
+      <e p="EasyStudioService.sln" t="IncludeFlat" />
+      <e p="log4net.config" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Test.cs" t="Include" />
+      <e p="WebServer.cs" t="Include" />
+    </e>
+    <e p="C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="base.xml" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Csd.cs" t="Include" />
+      <e p="Fla2Csd.csproj" t="IncludeRecursive" />
+      <e p="imageview.xml" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Test.cs" t="Include" />
+    </e>
+    <e p="C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\HTTPServerLib" t="IncludeRecursive">
+      <e p="ActionResult.cs" t="Include" />
+      <e p="BaseHeader.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="HeadersHelper.cs" t="Include" />
+      <e p="HttpRequest.cs" t="Include" />
+      <e p="HttpResponse.cs" t="Include" />
+      <e p="HttpServer.cs" t="Include" />
+      <e p="HttpServerLib.csproj" t="IncludeRecursive" />
+      <e p="HttpService.cs" t="Include" />
+      <e p="ILogger.cs" t="Include" />
+      <e p="IServer.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Protocols.cs" t="Include" />
+      <e p="RequestHeaders.cs" t="Include" />
+      <e p="ResponseHeaders.cs" t="Include" />
+      <e p="ResponseHelper.cs" t="Include" />
+      <e p="RouteAttribute.cs" t="Include" />
+      <e p="RouteMethod.cs" t="Include" />
+      <e p="ServiceModule.cs" t="Include" />
+      <e p="ServiceRoute.cs" t="Include" />
+    </e>
+  </component>
+</project>

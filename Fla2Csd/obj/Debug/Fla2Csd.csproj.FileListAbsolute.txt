@@ -1,0 +1,13 @@
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\Fla2Csd.exe.config
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\Fla2Csd.exe
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\Fla2Csd.pdb
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\obj\Debug\Fla2Csd.csprojAssemblyReference.cache
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\obj\Debug\Fla2Csd.csproj.CoreCompileInputs.cache
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\obj\Debug\Fla2Csd.csproj.CopyComplete
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\obj\Debug\Fla2Csd.exe
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\obj\Debug\Fla2Csd.pdb
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\base.xml
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\log4net.dll
+C:\Users\yzqlwt\Documents\WorkSpace\EasyStudioServer\Fla2Csd\bin\Debug\log4net.xml
